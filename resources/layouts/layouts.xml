@@ -1,0 +1,20 @@
+<layouts>
+    <layout id="TitlePageLayout">
+        <label x="21%" y="50%" text="CR" font="@Fonts.HighwayGothicExtraLarge" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <label x="77%" y="50%" text="1" font="@Fonts.HighwayGothicExtraLarge" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+        <bitmap id="CARoute1Large" x="center" y="6%" filename="../drawables/CA_route_1_large.png" />
+    </layout>
+    <layout id="StartPageLayout">
+        <label x="25%" y="2%" id="Clock" font="@Fonts.HighwayGothicExtraSmall" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <bitmap id="Bolt" x="60%" y="4%" filename="../drawables/bolt-green-small.png" />
+        <label x="75%" y="2%" id="Battery" font="@Fonts.HighwayGothicExtraSmall" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+        <bitmap id="CARoute1Medium" x="17%" y="25%" filename="../drawables/CA_route_1_medium.png" />
+        <label x="50%" y="33%" text="CR" font="@Fonts.HighwayGothicMedium" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <label x="77%" y="33%" text="1" font="@Fonts.HighwayGothicMedium" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+        <bitmap id="TrafficArrowDiagonalRight" x="82%" y="22%" filename="../drawables/directional-arrow-traffic-signs-diagonal-right.png" />
+        <bitmap id="TrafficArrowUp" x="60%" y="68%" filename="../drawables/directional-arrow-traffic-signs-up.png" />
+        <label x="56%" y="66%" text="Course" font="@Fonts.HighwayGothicSmall" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+        <bitmap id="TrafficArrowDown" x="60%" y="83%" filename="../drawables/directional-arrow-traffic-signs-down.png" />
+        <label x="56%" y="81%" text="Settings" font="@Fonts.HighwayGothicSmall" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+    </layout>
+</layouts>

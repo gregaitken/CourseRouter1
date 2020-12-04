@@ -1,0 +1,14 @@
+<fonts>
+    <!--size=16px-->
+    <font id="HighwayGothicExtraSmall" filename="HighwayGothicExtraSmall.fnt" />
+    <!--size=24px-->
+    <font id="HighwayGothicSmall" filename="HighwayGothicSmall.fnt" />
+    <!--size=32px-->
+    <font id="HighwayGothicNormal" filename="HighwayGothicNormal.fnt" />
+    <!--size=48px-->
+    <font id="HighwayGothicMedium" filename="HighwayGothicMedium.fnt" />
+    <!--size=64px-->
+    <font id="HighwayGothicLarge" filename="HighwayGothicLarge.fnt" />
+    <!--size=96px-->
+    <font id="HighwayGothicExtraLarge" filename="HighwayGothicExtraLarge.fnt" />
+</fonts>

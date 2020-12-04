@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">Course-Router-1</string>
+    <string id="setting_reset_label">Reset App Data</string>
+    <string id="option_select_label">Select</string>
+    <string id="option_download_label">Download</string>
+    <string id="service_garmin_label">Garmin</string>
+    <string id="service_strava_label">Strava</string>
+    <string id="service_rwgps_label">RWGPS</string>
+    <string id="option_save_label">Save</string>
+    <string id="option_discard_label">Discard</string>
+</strings>

@@ -1,0 +1,19 @@
+<drawables>
+    <bitmap id="ArrowDown" filename="arrow-down-small.png" />
+    <bitmap id="ArrowLeft" filename="arrow-left-small.png" />
+    <bitmap id="ArrowRight" filename="arrow-right-small.png" />
+    <bitmap id="ArrowUp" filename="arrow-up-small.png" />
+    <bitmap id="BoltGreen" filename="bolt-green-small.png" />
+    <bitmap id="BoltRed" filename="bolt-red-small.png" />
+    <bitmap id="BoltYellow" filename="bolt-yellow-small.png" />
+    <bitmap id="CARoute1Small" filename="CA_route_1_small.png" />
+    <bitmap id="CARoute1Medium" filename="CA_route_1_medium.png" />
+    <bitmap id="CARoute1Large" filename="CA_route_1_large.png" />
+    <bitmap id="TrafficArrowDiagonalRight" filename="directional-arrow-traffic-signs-diagonal-right.png" />
+    <bitmap id="TrafficArrowDown" filename="directional-arrow-traffic-signs-down.png" />
+    <bitmap id="TrafficArrowUp" filename="directional-arrow-traffic-signs-up.png" />
+    <bitmap id="MapScale" filename="map-scale-small.png" />
+    <bitmap id="Minus" filename="minus-small.png" />
+    <bitmap id="NorthArrow" filename="north-arrow-small.png" />
+    <bitmap id="Plus" filename="plus-small.png" />
+</drawables>

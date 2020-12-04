@@ -1,0 +1,18 @@
+<menus>
+    <menu id="SettingsMenu" title="Settings">
+        <menu-item id="setting_reset" label="@Strings.setting_reset_label" />
+    </menu>
+    <menu id="CourseMenu" title="Course">
+        <menu-item id="option_select" label="@Strings.option_select_label" />
+        <menu-item id="option_download" label="@Strings.option_download_label" />
+    </menu>
+    <menu id="ServicesMenu" title="Download From">
+        <menu-item id="service_garmin" label="@Strings.service_garmin_label" />
+        <menu-item id="service_strava" label="@Strings.service_strava_label" />
+        <menu-item id="service_rwgps" label="@Strings.service_rwgps_label" />
+    </menu>
+    <menu id="EndActivityMenu" title="End Activity">
+        <menu-item id="option_save" label="@Strings.option_save_label" />
+        <menu-item id="option_discard" label="@Strings.option_discard_label" />
+    </menu>
+</menus>
