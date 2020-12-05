@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="./images/logo.png" alt="logo.png" height="200" />
+![logo.png](./images/logo.png)
 
 CourseRouter1 is a Garmin watch app that provides activity tracking and turn-by-turn navigation for preplanned cycling routes. It has been specifically developed for and tested on the Garmin Forerunner 735XT multisport watch. The app is currently in Alpha (pre-release) stage. I hope to continue improving CourseRouter1 over the next several months and eventually publish it to the [Garmin Connnect IQ Store](https://apps.garmin.com/en-US/) for free download and use.
 
